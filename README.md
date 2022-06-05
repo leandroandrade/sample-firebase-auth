@@ -2,6 +2,8 @@
 
 Sample firebase auth using email and password.
 
+Article: https://dev.to/leandroandrade/authenticate-users-with-firebase-35l9
+
 ## Get started
 
 Clone the project:
